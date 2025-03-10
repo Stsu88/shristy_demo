@@ -1,2 +1,3 @@
 # shristy_demo
 This is my first Git Repository
+Author-shristy chaudhary
